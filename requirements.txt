@@ -1,0 +1,10 @@
+## Python version used == 3.8.15 
+numpy == 1.23.5
+pandas == 1.5.2
+matplotlib == 3.7.2
+networkx == 2.8.8
+seaborn == 0.11.1
+
+## R version used == 4.4.1
+curatedMetagenomicData == 3.13.0
+dplyr == 1.1.4
